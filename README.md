@@ -1,6 +1,11 @@
 # 💫 About Me:
-# Hi, I'm Kaviarasan 👋<br><br>🎨 UI/UX Designer | 💻 Software Systems Student | 🚀 Tech Enthusiast<br><br>I love designing meaningful digital experiences and building innovative solutions using technology.<br><br>## 🚀 Interests<br>- UI/UX Design & Product Design<br>- Web Development<br>- Artificial Intelligence<br>- IoT & Embedded Systems<br>- Creative Problem Solving<br><br>## 🛠️ Skills<br>- Figma<br>- React.js<br>- JavaScript<br>- HTML/CSS<br>- MongoDB<br>- User Research & Prototyping<br><br>Always learning, experimenting, and creating 🚀<br>
+Hi, I'm Kaviarasan M 👋
 
+I'm an M.Sc. Software Systems student and a Google Certified UI/UX Designer with a passion for building intuitive, user-centered digital experiences. I enjoy transforming ideas into clean, functional, and visually engaging web applications that solve real-world problems.
+
+My interests span UI/UX design, frontend development, AI-powered applications, and open-source collaboration. I work with React, Figma, Git, and modern web technologies while continuously exploring new tools and design practices to improve both user experience and software quality.
+
+I believe great products are created through curiosity, continuous learning, and collaboration. I'm always excited to contribute to meaningful projects, connect with developers and designers, and create technology that makes a positive impact.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaviarasan.11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaviarasan-m-b29095377?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
